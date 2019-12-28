@@ -1,0 +1,64 @@
+baseURL = "https://www.andreaskluth.net/"
+title = "Andreas Kluth - Software-Entwickler"
+theme = "hugo-coder"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Andreas Kluth"
+    info = "Software-Entwickler"
+    description = "Andreas Kluth - Software-Entwickler"
+    keywords = "developer,java,c#,kotlin,postgresql,postgres,freelancer,cologne,bonn,germany"
+    avatarurl = "https://www.gravatar.com/avatar/38f26ef217abf3bb6263f7b01c164a22?s=500"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = ""
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/AndreasKl/"
+[[params.social]]
+    name = "stackoverflow"
+    icon = "fab fa-stack-overflow fa-2x"
+    weight = 2
+    url = "https://stackoverflow.com/story/andreaskluth"
+[[params.social]]
+    name = "linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/andreas-k-38b78648/"
+[[params.social]]
+    name = "Xing"
+    icon = "fab fa-xing fa-2x"
+    weight = 4
+    url = "https://www.xing.com/profile/Andreas_Kluth3/cv"
+
+# Menu links
+[[menu.main]]
+    name = "Über mich"
+    weight = 1
+    url = "/"
+[[menu.main]]
+    name = "Impressum"
+    weight = 2
+    url = "/imprint/"
