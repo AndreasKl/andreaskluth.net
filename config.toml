@@ -18,10 +18,10 @@ pygmentscodefencesguesssyntax = true
     keywords = "developer,java,c#,kotlin,postgresql,postgres,freelancer,cologne,bonn,germany"
     avatarurl = "https://www.gravatar.com/avatar/38f26ef217abf3bb6263f7b01c164a22?s=500"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
 
-    footercontent = ""
+    footercontent = "Made with ☕ in Bonn"
 
     hidecredits = true
     hidecopyright = true
@@ -29,7 +29,7 @@ pygmentscodefencesguesssyntax = true
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    custom_css = []
 
 # Social links
 [[params.social]]
