@@ -1,8 +1,8 @@
 baseURL = "https://www.andreaskluth.net/"
-title = "Andreas Kluth - Software-Entwickler"
+title = "Andreas Kluth - software engineer"
 theme = "hugo-coder"
-languageCode = "de-de"
-defaultContentLanguage = "de"
+languagecode = "de-de"
+defaultcontentlanguage = "de"
 
 paginate = 20
 canonifyurls = true
@@ -13,8 +13,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Andreas Kluth"
-    info = "Software-Entwickler"
-    description = "Andreas Kluth - Software-Entwickler"
+    info = "Part time freelance software engineer located in Bonn - Germany"
+    subInfo = "❤ Java, Kotlin, JVM, OpenSource, Linux."
+    description = "Andreas Kluth - software engineer"
     keywords = "developer,java,c#,kotlin,postgresql,postgres,freelancer,cologne,bonn,germany"
     avatarurl = "https://www.gravatar.com/avatar/38f26ef217abf3bb6263f7b01c164a22?s=500"
 
